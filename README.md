@@ -30,14 +30,14 @@ flutter pub get
 
 ## Packages
 
-this Porject is currently extended with the following plugins.
+this Project is currently extended with the following packages.
 Instructions on how to use them in your own application are linked below.
 
-| Plugin | README |
-| ------ | ------ |
-| dio | https://pub.dev/packages/dio |
-| provider | https://pub.dev/packages/provider |
-| shimmer | https://pub.dev/packages/shimmer |
+ Package | Link | Used For          |
+| ------ | ------ |-------------------|
+| dio | https://pub.dev/packages/dio | http request      |
+| provider | https://pub.dev/packages/provider | state management  |
+| shimmer | https://pub.dev/packages/shimmer | shimmer animation |
 
 
 ## API Reference
