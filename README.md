@@ -4,10 +4,10 @@ An example project that created fo testing purpose
 
 ## Screenshots
 <p>
-  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutte-test/blob/main/screenshoot/ss1.png)"/>
-  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss2.png)"/>
-  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss3.png)"/>
-  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss4.png)"/>
+  <img src="https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss1.png?raw=true" alt="screenshoot1" style="width:200px;"/>
+  <img src="https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss2.png?raw=true" alt="screenshoot2" style="width:200px;"/>
+  <img src="https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss3.png?raw=true" alt="screenshoot3" style="width:200px;"/>
+  <img src="https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss4.png?raw=true" alt="screenshoot4" style="width:200px;"/>
 </p>
 
 ## How to run
