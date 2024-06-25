@@ -40,6 +40,25 @@ Instructions on how to use them in your own application are linked below.
 | shimmer | https://pub.dev/packages/shimmer |
 
 
+## API Reference
+
+#### Get Users
+
+```http
+  GET https://reqres.in/api/users
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `page` | `string` | **Required**. number of page |
+
+#### example
+
+```http
+  GET https://reqres.in/api/users?page=1
+```
+
+
 ## Tested
 - [ ]  IOS
 - [x]  Android
