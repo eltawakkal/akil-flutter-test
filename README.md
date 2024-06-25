@@ -1,16 +1,47 @@
-# akil_flutter_test
+# Akil's Flutter Test Project
 
-A new Flutter project.
+An example project that created fo testing purpose
 
-## Getting Started
+## Screenshots
+<p>
+  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutte-test/blob/main/screenshoot/ss1.png)"/>
+  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss2.png)"/>
+  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss3.png)"/>
+  <img src="[https://github.com/hnvn/flutter_shimmer/blob/master/screenshots/loading_list.gif?raw=true](https://github.com/eltawakkal/akil-flutter-test/blob/main/screenshoot/ss4.png)"/>
+</p>
 
-This project is a starting point for a Flutter application.
+## How to run
 
-A few resources to get you started if this is your first Flutter project:
+1. install packages by running
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```dart
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. run to your AVD or Phone
+
+
+## Page / State
+
+- Splash Screen
+- User List
+- Loading Sate
+- Error State
+
+## Packages
+
+this Porject is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Plugin | README |
+| ------ | ------ |
+| dio | https://pub.dev/packages/dio |
+| provider | https://pub.dev/packages/provider |
+| shimmer | https://pub.dev/packages/shimmer |
+
+
+## Tested
+- [ ]  IOS
+- [x]  Android
+
+> Note: you must connect to `internet` to run this project.
